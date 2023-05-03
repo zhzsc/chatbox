@@ -6,7 +6,7 @@
     English | <a href="./README-CN.md">中文介绍</a>
 </p>
 <p align="center">
-    <em>the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.</em>
+    <em>Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.</em>
 </p>
 
 
@@ -42,19 +42,21 @@
 
 ## Download
 
-**Download installers**:
+*Chatbox supports all major operating systems, including: Windows, Mac (Intel, M1), and Linux.*
 
-[>>Click here to view all available installers for download<<](https://github.com/Bin-Huang/chatbox/releases)
+### Download from the official website
 
-**Supported Platforms**:
+Visit **[chatboxapp.xyz](https://chatboxapp.xyz/)** to download the latest version.
 
-- **Windows**: Please download `.msi` installation package
-- **Mac**: Please download `.dmg` (recommended) or `.tar` file, already supporting x64, arm64 (please download x64 version for now, it is compatible)
-- **Linux**: Please download `.AppImage` (recommended) or `.deb` file
+### Download from Github Releases
 
-**Download from package manager**:
+You can visit **[Github Releases](https://github.com/Bin-Huang/chatbox/releases)** to browse and download all previous versions.
 
-[aur](https://aur.archlinux.org/packages/chatbox-bin)
+### Download via package manager
+
+#### [aur](https://aur.archlinux.org/packages/chatbox-bin)
+
+If you are using Arch Linux, you can download and install Chatbox via AUR:
 
 ```
 paru -S chatbox-bin
@@ -109,7 +111,7 @@ Any form of contribution is welcome, including but not limited to:
 - Submitting translations
 - Submitting any other forms of contribution
 
-## Become a ChatBox sponsor?
+## Become a ChatBox Sponsor?
 
 As an open-source project, ChatBox is sustained by the contributions and support of our community. If you or your organization find our work valuable, we welcome your sponsorship to help us continue improving and enhancing the application for everyone. To show our appreciation, we will prominently display sponsor information in our README and other appropriate places. Thank you for considering supporting our efforts!
 
